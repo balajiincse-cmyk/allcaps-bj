@@ -1,0 +1,20 @@
+// Public profile shown on the Profile page. Edit this file and redeploy to update it.
+export const OWNER_PROFILE = {
+  fullName: 'Balaji',
+  firstName: 'Balaji',
+  lastName: '',
+  callingName: 'Balaji',
+  email: 'balajiincse@gmail.com',
+  phone: '',
+  whatsapp: '',
+  jobTitle: '',
+  organization: '',
+  city: '',
+  country: '',
+  bio: '',
+  instagram: '',
+  linkedin: '',
+  website: '',
+  photo: '',
+  coverImage: '',
+};
